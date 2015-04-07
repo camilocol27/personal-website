@@ -4,8 +4,9 @@
 }
 /** nav**/
 body{
-	background:url(zwartevilt_@2x.jpg ) 960px;
+	background:url(food.png );
 
+	
 	
 }
 .logo{
@@ -15,7 +16,7 @@ body{
 }
 p{
 	margin: 25px;
-	color: silver;
+	color:#2980b9;
 	font-size: 50px;
 	font-weight: bold;
 }
@@ -66,8 +67,9 @@ h2{
 	left: 45px;
 }
 h3{
-	color: silver;
+	color: black;
 	font-size: 18px;
+	font-family: sans-serif, Arial;
 	width: 550px;
 	float: left;
 	margin: 15px;

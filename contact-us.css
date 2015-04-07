@@ -4,7 +4,7 @@
 }
 /** nav**/
 body{
-	background:url(zwartevilt_@2x.jpg ) 960px;
+	background:url(food.png ) 960px;
 	height: 1200px;
 	
 }
@@ -15,7 +15,7 @@ body{
 }
 p{
 	margin: 25px;
-	color: silver;
+	color: #2980b9;
 	font-size: 50px;
 	font-weight: bold;
 }
